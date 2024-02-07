@@ -4,7 +4,7 @@ import requests
 from tqdm import tqdm
 import re
 import os
-#Need to add and fix the div links used in this web scraper
+#Need to add and fix the div path links used in this web scraper
 
 def download_imdb_top250():
     main_url = "https://www.imdb.com"
